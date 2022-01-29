@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+background-color: blueviolet;
+}
+
+ h1{
+     color: coral;
+ }
+ 
+nav{
+    margin: 15px;
+    padding: 30px;
+}
+
+ footer{
+  background-color: blueviolet; 
+  color: aqua; 
+ }
+
+nav a{
+    font-size: 20px;
+    text-decoration:none;
+    color: white;
+    border:3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+    margin: 15px;
+    
+}
+.popular{
+    background-color:white;
+    color: royalblue;
+}
+
+.NET{
+    background-color: blueviolet;
+    color: aqua;
+}
+.da{
+    background-color: blueviolet;
+    color: aqua;
+     font-size: 20px;
+    text-decoration:none;
+    border:3px solid navy;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+}
